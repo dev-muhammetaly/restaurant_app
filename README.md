@@ -43,6 +43,27 @@ This project is a Flutter-based restaurant ordering app designed for a premium d
 - Smooth user flow from login to ordering
 - Responsive layout suitable for web and mobile screens
 
+## Screenshots
+
+Add these images into the `docs/screenshots/` folder to display them in the README:
+
+```text
+docs/screenshots/
+├── login.png
+├── signup.png
+├── menu.png
+├── profile.png
+```
+
+Then use:
+
+```md
+![Login Screen](docs/screenshots/login.png)
+![Sign Up Screen](docs/screenshots/signup.png)
+![Menu Screen](docs/screenshots/menu.png)
+![Profile Screen](docs/screenshots/profile.png)
+```
+
 ## Project Structure
 
 ```text
