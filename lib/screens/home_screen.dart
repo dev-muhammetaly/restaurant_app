@@ -32,6 +32,7 @@ class _HomescreenState extends ConsumerState<Homescreen> {
           // Category Selector
           SizedBox(
             height: 50,
+            width: 350,
             child: ListView.separated(
               padding: const EdgeInsets.symmetric(horizontal: 16),
               scrollDirection: Axis.horizontal,
